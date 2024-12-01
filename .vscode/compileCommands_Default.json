@@ -1,5 +1,69 @@
 [
 	{
+		"file": "C:\\UE5-AI\\Source\\UnrealAgilityArena\\BTService_BatteryCheck.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\UE5-AI\\.vscode\\compileCommands_Default\\UnrealAgilityArena.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\UE5-AI\\Source\\UnrealAgilityArena\\BTService_BatteryCheck.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\UE5-AI\\.vscode\\compileCommands_Default\\UnrealAgilityArena.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\UE5-AI\\Source\\UnrealAgilityArena\\BTService_SpeedControl.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\UE5-AI\\.vscode\\compileCommands_Default\\UnrealAgilityArena.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\UE5-AI\\Source\\UnrealAgilityArena\\BTService_SpeedControl.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\UE5-AI\\.vscode\\compileCommands_Default\\UnrealAgilityArena.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\UE5-AI\\Source\\UnrealAgilityArena\\BTTask_FindRandomLocation.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\UE5-AI\\.vscode\\compileCommands_Default\\UnrealAgilityArena.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\UE5-AI\\Source\\UnrealAgilityArena\\BTTask_FindRandomLocation.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\UE5-AI\\.vscode\\compileCommands_Default\\UnrealAgilityArena.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\UE5-AI\\Source\\UnrealAgilityArena\\BaseDummyAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\UE5-AI\\.vscode\\compileCommands_Default\\UnrealAgilityArena.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\UE5-AI\\Source\\UnrealAgilityArena\\BaseDummyAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\UE5-AI\\.vscode\\compileCommands_Default\\UnrealAgilityArena.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
 		"file": "C:\\UE5-AI\\Source\\UnrealAgilityArena\\BaseDummyCharacter.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
@@ -9,6 +73,14 @@
 	},
 	{
 		"file": "C:\\UE5-AI\\Source\\UnrealAgilityArena\\BaseDummyCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\UE5-AI\\.vscode\\compileCommands_Default\\UnrealAgilityArena.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\UE5-AI\\Source\\UnrealAgilityArena\\BatteryStatus.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
 			"@C:\\UE5-AI\\.vscode\\compileCommands_Default\\UnrealAgilityArena.1.rsp"
