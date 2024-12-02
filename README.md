@@ -5,6 +5,9 @@ This project is based on the source code for my book **Artificial Intelligence U
 
 Note: the original source code for the book can be found on [Packt GitHub repository](https://github.com/PacktPublishing/Artificial-Intelligence-in-Unreal-Engine-5).
 
+How to Play it:
+Download the UE5.4, after that click the .uproject file, claick content folder -> maps, choose which maps you want to play.
+
 ## Credits
 
 * **Models**
