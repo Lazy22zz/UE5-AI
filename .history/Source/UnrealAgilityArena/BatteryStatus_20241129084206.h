@@ -1,6 +1,5 @@
 #pragma once
 
-// create a enum to store battery type
 UENUM(BlueprintType)
 enum class EBatteryStatus : uint8
 {
