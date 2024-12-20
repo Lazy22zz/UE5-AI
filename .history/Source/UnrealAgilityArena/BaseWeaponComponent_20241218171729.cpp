@@ -10,11 +10,7 @@ UBaseWeaponComponent::UBaseWeaponComponent()
         TEXT("/Game/KayKit/PrototypeBits/Models/Gun_Pistol.Gun_Pistol")
     );
 
-    if (StaticMeshAsset.Succeeded())
-	{
-		// Set the loaded static mesh as the component's static mesh
-		UStaticMeshComponent::SetStaticMesh(StaticMeshAsset.Object);
-	}
+    UStaticMeshComponent::SetStaticMesh(StaticMeshAsset.Object);
 }
 
 void UBaseWeaponComponent::Shoot()

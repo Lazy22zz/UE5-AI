@@ -21,14 +21,14 @@ ABaseDummyCharacter::ABaseDummyCharacter()
 	GetMesh() -> SetRelativeLocation(FVector(0.f, 0.f, -120.f));
 	GetMesh() -> SetRelativeRotation(FRotator(0.f, -90.f, 0.f));
 
-	static ConstructorHelpers::FObjectFinder<USkeletalMesh> SkeletalMeshAsset(TEXT("/Game/KayKit/PrototypeBits/Character/Dummy.Dummy"));
+	static ConstructorHelpers::FObjectFinder<USkeletalMesh>SkeletalMeshAsset(TEXT("/Game/KayKit/PrototypeBits/Character/Dummy.Dummy"));
 	if (SkeletalMeshAsset.Succeeded())
 	{
 		GetMesh() -> SetSkeletalMesh(SkeletalMeshAsset.Object);
 	}
 	GetMesh() -> SetAnimationMode(EAnimationMode::AnimationBlueprint);
 
-	static ConstructorHelpers::FObjectFinder<UAnimBlueprint> AnimBlueprintAsset( TEXT("/Game/KayKit/PrototypeBits/Character/ABP_Dummy.ABP_Dummy"));
+	static ConstructorHelpers:: FObjectFinder < UAnimBlueprint > AnimBlueprintAsset( TEXT("/Game/KayKit/PrototypeBits/Character/ABP_Dummy.ABP_Dummy"));
 	if (AnimBlueprintAsset.Succeeded())
 	{
 		GetMesh() -> SetAnimClass(AnimBlueprintAsset.Object -> GeneratedClass);
